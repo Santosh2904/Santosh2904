@@ -34,7 +34,7 @@ One of my core strengths is fostering cross-functional teamwork, where I leverag
 
 ### GitHub Stats
 
-![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimajji&show_icons=true&theme=radical)
+![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh2904&show_icons=true&theme=radical)
 
 ---
 
